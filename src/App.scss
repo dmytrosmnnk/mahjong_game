@@ -1,0 +1,25 @@
+.App {
+  padding: 48px 0 48px;
+  background: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+
+  &__header {
+    font-size: 48px;
+    line-height: 72px;
+  }
+
+  &__field {
+    margin-top: 108px;
+    display: grid;
+    grid-template-columns: repeat(8, 80px);
+    grid-template-rows: repeat(4, 104px);
+    gap: 15px 15px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+  }
+}
