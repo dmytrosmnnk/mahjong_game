@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mahjong_game/static/css/main.073c9b0a.css",
+    "main.js": "/mahjong_game/static/js/main.19a00e0a.js",
+    "static/js/787.8c06f703.chunk.js": "/mahjong_game/static/js/787.8c06f703.chunk.js",
+    "static/media/logo.svg": "/mahjong_game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mahjong_game/index.html",
+    "main.073c9b0a.css.map": "/mahjong_game/static/css/main.073c9b0a.css.map",
+    "main.19a00e0a.js.map": "/mahjong_game/static/js/main.19a00e0a.js.map",
+    "787.8c06f703.chunk.js.map": "/mahjong_game/static/js/787.8c06f703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.19a00e0a.js"
+  ]
+}
