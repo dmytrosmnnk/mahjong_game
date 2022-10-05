@@ -1,4 +1,10 @@
 # Mahjong Game
+
 ### by Dmytro Semenenko
 
-### HTML, SCSS, React
+### web version
+
+### Stack:
+- HTML,
+- SCSS,
+- React
