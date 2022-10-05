@@ -8,3 +8,5 @@
 - HTML,
 - SCSS,
 - React
+
+[Demo link:](https://dmytrosmnnk.github.io/mahjong_game/)
